@@ -2,4 +2,5 @@
 
 Olá, bem vindo , estarei disponibilizando as melhores receitas. :cake:
 
-- Strogonoff de Frango
+- Strogonoff de Frango :chicken:
+- Pavê de Chocolate :chocolate_bar:
